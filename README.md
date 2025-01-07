@@ -1,2 +1,2 @@
 # Deep-Ensemble-Learning-based-MRI-segmentation
-Automatic segmentation method to segment standard T1- and T2-weighted brain MRI images for Radiotherapy Planning
+These MATLAB codes are designed to implement an automatic segmentation model based on deep ensemble learning. This work is part of the research by Yoganathan, SA, Tarraf Torfeh, Satheesh Paloor, Rabih Hammoud, Nooran Al-Hammadi, Rui Zhang, et al., titled "Automatic Segmentation of MRI Images for Brain Radiotherapy Planning Using Deep Ensemble Learning", published in Biomedical Physics & Engineering Express (Accepted Paper, January 2025).
